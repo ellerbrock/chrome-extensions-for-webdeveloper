@@ -2,7 +2,7 @@
 
 # Awesome Chrome Extensions [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
-A curated list with useful Chrome Browser Extensions.
+A curated list with awesome Chrome Browser Extensions.
 
 ## Chrome Browser Extensions
 
@@ -20,7 +20,7 @@ A curated list with useful Chrome Browser Extensions.
 
 - [Google Analytics Tracking](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh) - Deactivate / OptOut from Google Analytics Tracking
 
-- [ErweiterungInject jQuery](https://chrome.google.com/webstore/detail/inject-jquery/indebdooekgjhkncmgbkeopjebofdoid) - Injects jQuery in the page.
+- [Inject jQuery](https://chrome.google.com/webstore/detail/inject-jquery/indebdooekgjhkncmgbkeopjebofdoid) - Injects jQuery in the page.
 
 - [Hover Zoom](https://chrome.google.com/webstore/detail/hover-zoom/nonjdcjchghhkdoolnlbekcfllmednbl) - Enlarge thumbnails on mouse over. Works on many sites (Facebook, Twitter ...)
 
