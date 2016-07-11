@@ -1,6 +1,6 @@
 ![awesome-chrome-extensions](https://github.frapsoft.com/top/awesome-chrome-extensions.png)
 
-# Awesome Chrome Extensions ![logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
+# Awesome Chrome Extensions [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
 A curated list with awesome Chrome Browser Extensions.
 
@@ -34,6 +34,8 @@ A curated list with awesome Chrome Browser Extensions.
 
 - [Starmark](https://chrome.google.com/webstore/detail/starmark/bkobkbkmhkmlmdolbhnmmmhnccdgaebk) - Exports your on Github stared pages and save them as bookmarks
 
+- [Click and Save](https://chrome.google.com/webstore/detail/click-and-save/dbkmjjclgbiooljcegcddagnddjedmed) - Click to save images. Auto Rename, Filter, and Save most pictures.
+
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - CPU friendly Website Spam & Advertising Filtering
 
 - [Wappalyzer](https://github.com/AliasIO/Wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
@@ -47,15 +49,14 @@ A curated list with awesome Chrome Browser Extensions.
 - [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools ecosystem
 
 - [Awesome DevTools](https://github.com/andersoonweb/awesome-devtools) - A collection of articles, screencast, talks, courses and more.
-
-### Contact / Social Media
+# Contact / Social Media
 
 _Get the latest News about Web Development, Open Source, Tooling, Server & Security_
 
 [![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/frapsoft/)[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/frapsoft/)[![Google+](https://github.frapsoft.com/social/google-plus.png)](https://plus.google.com/116540931335841862774)[![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/frapsoft/frapsoft/)[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/ellerbrock/)
 
-### License
+### License 
 
-Copyright (c) 2016 [Maik Ellerbrock](https://github.com/ellerbrock/)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=102)](https://opensource.org/licenses/mit-license.php)
+This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ellerbrock/" property="cc:attributionName" rel="cc:attributionURL">Maik Ellerbrock</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
