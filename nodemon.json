@@ -1,0 +1,8 @@
+{
+    "ignore": [
+        "tmp/*",
+        "templates/*",
+        "tests/*",
+        "node_modules/*"
+    ]
+}
