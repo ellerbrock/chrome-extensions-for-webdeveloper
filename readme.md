@@ -1,6 +1,6 @@
 ![awesome-chrome-extensions](https://github.frapsoft.com/top/awesome-chrome-extensions.png)
 
-# Awesome Chrome Extensions [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# Awesome Chrome Extensions ![logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
 A curated list with awesome Chrome Browser Extensions.
 
