@@ -2,7 +2,7 @@
 
 # Awesome Chrome Extensions [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
-A curated list with awesome Chrome Browser Extensions.
+Awesome Chrome Browser Extensions.
 
 ## Chrome Browser Extensions
 
@@ -10,15 +10,24 @@ A curated list with awesome Chrome Browser Extensions.
 
 - [Auto Copy](https://chrome.google.com/webstore/detail/auto-copy/bijpdibkloghppkbmhcklkogpjaenfkg) - Automatically copy selected text to the clipboard.
 
+- [Atomic Chrome](https://chrome.google.com/webstore/detail/atomic-chrome/lhaoghhllmiaaagaffababmkdllgfcmc) - Allows to edit textareas and contenteditable elements directly in Atom
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) - Clear your cache and browsing data with a single click of a button.
 
 - [Click and Save](https://chrome.google.com/webstore/detail/click-and-save/dbkmjjclgbiooljcegcddagnddjedmed) - Click to save images. Auto Rename, Filter, and Save most pictures.
 
 - [Click&Clean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) - Clear history, cookies, temp files ...
 
-- [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies
+- [Claire](https://chrome.google.com/webstore/detail/claire/fgbpcgddpmjmamlibbaobboigaijnmkl) - Shows an orange cloud in the omnibar when you are browsing a site that uses CloudFlare
+ 
+ - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies
 
 - [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) - A simple CSS property viewer.
+
+- [ExtensionCloudFlare CDN Cache Monitor](https://chrome.google.com/webstore/detail/cloudflare-cdn-cache-moni/ahpmegooeifhmlpnhhggempnbmllfmgi) - View loaded resource headers and check CloudFlare CDN cache settings.
+
+- [HTTP/2 and SPDY indicator](https://chrome.google.com/webstore/detail/http2-and-spdy-indicator/mpbpobfflnpcgagjijhmgnchggcjblin) - An indicator button for HTTP/2, SPDY and QUIC support by each website.
+
+- [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Encrypt the Web! Automatically use HTTPS security on many sites.
 
 - [Google Analytics Tracking](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh) - Deactivate / OptOut from Google Analytics Tracking
 
@@ -26,11 +35,15 @@ A curated list with awesome Chrome Browser Extensions.
 
 - [Inject jQuery](https://chrome.google.com/webstore/detail/inject-jquery/indebdooekgjhkncmgbkeopjebofdoid) - Injects jQuery in the page.
 
+- [I'm a Gentleman](https://chrome.google.com/webstore/detail/im-a-gentleman/afjaicccalbbickikgdegaihmajaidpd) - Save an image with one click or dragging it, or all the images in the page using the extension button.
+
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents
 
 - [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - Secure Password Manager
 
 - [Live HTTP Headers](https://chrome.google.com/webstore/detail/live-http-headers/iaiioopjkcekapmldfgbebdclcnpgnlo) - Monitor all HTTP/HTTPs traffic from your browser.
+
+- [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei) - Provides Chrome browser integration for the official LiveReload apps (Mac & Windows) and third-parties like guard-livereload and…
 
 - [Material Design Palette](https://chrome.google.com/webstore/detail/simple-material-design-pa/onaeadclbaeleijcfmmhopgmmmpedifa) - Palette for Google's Material Design Colors
 
@@ -45,6 +58,8 @@ A curated list with awesome Chrome Browser Extensions.
 - [Wappalyzer](https://github.com/AliasIO/Wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
 
 - [WOT](https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp) - Web of Trust gives a warning if pages are supposed to be dangerous
+
+- [XDebug Session Handler for PHP and IntelliJ](https://chrome.google.com/webstore/detail/xdebug-session-handler-fo/ckedihbegmhhmdnokbchoghfionggaib) - Appends the xdebug IDE variable to the url to kick off the session start to enable remote debugging for php applications
 
 - [Xmarks](https://chrome.google.com/webstore/detail/xmarks-bookmark-sync/ajpgkpeckebdhofmmjfgcjjiiejpodla) - Backup and sync your bookmarks and open tabs across computers and browsers. Xmarks is also available for Firefox, Safari and IE
 
