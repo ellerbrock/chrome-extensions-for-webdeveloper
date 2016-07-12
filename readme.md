@@ -6,11 +6,13 @@ A curated list with awesome Chrome Browser Extensions.
 
 ## Chrome Browser Extensions
 
-- [Auto Copy](https://chrome.google.com/webstore/detail/auto-copy/bijpdibkloghppkbmhcklkogpjaenfkg) - Automatically copy selected text to the clipboard.
-
 - [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - Extends the Developer Tools, adding tools for debugging and profiling AngularJS applications.
 
+- [Auto Copy](https://chrome.google.com/webstore/detail/auto-copy/bijpdibkloghppkbmhcklkogpjaenfkg) - Automatically copy selected text to the clipboard.
+
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) - Clear your cache and browsing data with a single click of a button.
+
+- [Click and Save](https://chrome.google.com/webstore/detail/click-and-save/dbkmjjclgbiooljcegcddagnddjedmed) - Click to save images. Auto Rename, Filter, and Save most pictures.
 
 - [Click&Clean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) - Clear history, cookies, temp files ...
 
@@ -20,21 +22,23 @@ A curated list with awesome Chrome Browser Extensions.
 
 - [Google Analytics Tracking](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh) - Deactivate / OptOut from Google Analytics Tracking
 
+- [Hover Zoom](https://chrome.google.com/webstore/detail/hover-zoom/nonjdcjchghhkdoolnlbekcfllmednbl) - Enlarge thumbnails on mouse over. Works on many sites (Facebook, Twitter ...)
+
 - [Inject jQuery](https://chrome.google.com/webstore/detail/inject-jquery/indebdooekgjhkncmgbkeopjebofdoid) - Injects jQuery in the page.
 
-- [Hover Zoom](https://chrome.google.com/webstore/detail/hover-zoom/nonjdcjchghhkdoolnlbekcfllmednbl) - Enlarge thumbnails on mouse over. Works on many sites (Facebook, Twitter ...)
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents
 
 - [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - Secure Password Manager
 
 - [Live HTTP Headers](https://chrome.google.com/webstore/detail/live-http-headers/iaiioopjkcekapmldfgbebdclcnpgnlo) - Monitor all HTTP/HTTPs traffic from your browser.
 
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save memory and minimize all unused Tabs in one page
-
 - [Material Design Palette](https://chrome.google.com/webstore/detail/simple-material-design-pa/onaeadclbaeleijcfmmhopgmmmpedifa) - Palette for Google's Material Design Colors
 
-- [Starmark](https://chrome.google.com/webstore/detail/starmark/bkobkbkmhkmlmdolbhnmmmhnccdgaebk) - Exports your on Github stared pages and save them as bookmarks
+- [Node.js V8 Inspector](https://chrome.google.com/webstore/detail/nodejs-v8-inspector/lfnddfpljnhbneopljflpombpnkfhggl) - Extension for launching V8 Inspector for Node.js debugging
 
-- [Click and Save](https://chrome.google.com/webstore/detail/click-and-save/dbkmjjclgbiooljcegcddagnddjedmed) - Click to save images. Auto Rename, Filter, and Save most pictures.
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save memory and minimize all unused Tabs in one page
+
+- [Starmark](https://chrome.google.com/webstore/detail/starmark/bkobkbkmhkmlmdolbhnmmmhnccdgaebk) - Exports your on Github stared pages and save them as bookmarks
 
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - CPU friendly Website Spam & Advertising Filtering
 
