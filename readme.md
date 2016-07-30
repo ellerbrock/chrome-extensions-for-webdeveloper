@@ -29,6 +29,7 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [Live HTTP Headers](https://chrome.google.com/webstore/detail/live-http-headers/iaiioopjkcekapmldfgbebdclcnpgnlo) - Monitor all HTTP/HTTPs traffic from your browser.
 -   [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei) - Provides Chrome browser integration for the official LiveReload apps (Mac & Windows) and third-parties like guard-livereload and...
 -   [Mailvelope](https://chrome.google.com/webstore/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke) - Mailvelope allows to encrypt and decrypt emails in your favorite webmail provider.
+-   [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa) - Write your email in Markdown, then make it pretty.
 -   [Material Design Palette](https://chrome.google.com/webstore/detail/simple-material-design-pa/onaeadclbaeleijcfmmhopgmmmpedifa) - Palette for Google's Material Design Colors
 -   [Node.js V8 Inspector](https://chrome.google.com/webstore/detail/nodejs-v8-inspector/lfnddfpljnhbneopljflpombpnkfhggl) - Extension for launching V8 Inspector for Node.js debugging
 -   [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save memory and minimize all unused Tabs in one page
@@ -37,6 +38,7 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [Starmark](https://chrome.google.com/webstore/detail/starmark/bkobkbkmhkmlmdolbhnmmmhnccdgaebk) - Exports your on Github stared pages and save them as bookmarks
 -   [SuperSorter](https://chrome.google.com/webstore/detail/hjebfgojnlefhdgmomncgjglmdckngij) - Sort bookmarks recursively, delete duplicates, merge folders, sort automatically, etc.
 -   [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - CPU friendly Website Spam & Advertising Filtering
+-   [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - Spoofs & Mimics User-Agent strings.
 -   [Wappalyzer](https://github.com/AliasIO/Wappalyzer) - Cross-platform utility that uncovers the technologies used on websites.
 -   [WOT](https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp) - Web of Trust gives a warning if pages are supposed to be dangerous
 -   [XDebug Session Handler for PHP and IntelliJ](https://chrome.google.com/webstore/detail/xdebug-session-handler-fo/ckedihbegmhhmdnokbchoghfionggaib) - Appends the xdebug IDE variable to the url to kick off the session start to enable remote debugging for php applications
