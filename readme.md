@@ -28,6 +28,7 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - Secure Password Manager
 -   [Live HTTP Headers](https://chrome.google.com/webstore/detail/live-http-headers/iaiioopjkcekapmldfgbebdclcnpgnlo) - Monitor all HTTP/HTTPs traffic from your browser.
 -   [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei) - Provides Chrome browser integration for the official LiveReload apps (Mac & Windows) and third-parties like guard-livereload and...
+-   [Mailvelope](https://chrome.google.com/webstore/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke) - Mailvelope allows to encrypt and decrypt emails in your favorite webmail provider.
 -   [Material Design Palette](https://chrome.google.com/webstore/detail/simple-material-design-pa/onaeadclbaeleijcfmmhopgmmmpedifa) - Palette for Google's Material Design Colors
 -   [Node.js V8 Inspector](https://chrome.google.com/webstore/detail/nodejs-v8-inspector/lfnddfpljnhbneopljflpombpnkfhggl) - Extension for launching V8 Inspector for Node.js debugging
 -   [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save memory and minimize all unused Tabs in one page
