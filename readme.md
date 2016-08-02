@@ -33,6 +33,7 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [Material Design Palette](https://chrome.google.com/webstore/detail/simple-material-design-pa/onaeadclbaeleijcfmmhopgmmmpedifa) - Palette for Google's Material Design Colors
 -   [Node.js V8 Inspector](https://chrome.google.com/webstore/detail/nodejs-v8-inspector/lfnddfpljnhbneopljflpombpnkfhggl) - Extension for launching V8 Inspector for Node.js debugging
 -   [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save memory and minimize all unused Tabs in one page
+-   [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools.
 -   [ScriptBlock](https://chrome.google.com/webstore/detail/scriptblock/hcdjknjpbnhdoabbngpmfekaecnpajba) - A smart extension that controls javascript, iframes, and plugins on Google Chrome.
 -   [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf) - Regain control of the web and surf more securely.
 -   [Starmark](https://chrome.google.com/webstore/detail/starmark/bkobkbkmhkmlmdolbhnmmmhnccdgaebk) - Exports your on Github stared pages and save them as bookmarks
