@@ -18,6 +18,7 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - An extension adding Vim-like bindings to Google Chrome
 -   [ExtensionCloudFlare CDN Cache Monitor](https://chrome.google.com/webstore/detail/cloudflare-cdn-cache-moni/ahpmegooeifhmlpnhhggempnbmllfmgi) - View loaded resource headers and check CloudFlare CDN cache settings.
 -   [Fast Bookmark Scanner](https://chrome.google.com/webstore/detail/fast-bookmark-scanner/gjcmklpilmpfhfjpebhnapnglcppdbic) - how duplicated links, duplicated and empty folders
+-   [Firebase Auth](https://chrome.google.com/webstore/detail/firebase-auth-in-chrome-e/lpgchdfbjddonaolofeijjackhnhnlla) - Authorize Firebase in a Chrome extension using a Google account.
 -   [Google Analytics Tracking](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh) - Deactivate / OptOut from Google Analytics Tracking
 -   [Hover Zoom](https://chrome.google.com/webstore/detail/hover-zoom/nonjdcjchghhkdoolnlbekcfllmednbl) - Enlarge thumbnails on mouse over. Works on many sites (Facebook, Twitter ...)
 -   [HTTP/2 and SPDY indicator](https://chrome.google.com/webstore/detail/http2-and-spdy-indicator/mpbpobfflnpcgagjijhmgnchggcjblin) - An indicator button for HTTP/2, SPDY and QUIC support by each website.
