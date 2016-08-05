@@ -1,6 +1,7 @@
-![awesome-chrome-extensions](https://github.frapsoft.com/top/awesome-chrome-extensions.png)
+![ChromeExtensions](https://github.frapsoft.com/top/awesome-chrome-extensions.png)
 
-# Awesome Chrome Extensions [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# Chrome Extensions for Web Developer
+[![BuildStatus](https://travis-ci.org/ellerbrock/chrome-extensions-for-webdevelopment.svg?branch=master)](https://travis-ci.org/ellerbrock/chrome-extensions-for-webdevelopment) [![OpenSource](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Gitter](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
 List with useful Chrome Extensions for a better Web Workflow
 
@@ -46,10 +47,24 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [XDebug Session Handler for PHP and IntelliJ](https://chrome.google.com/webstore/detail/xdebug-session-handler-fo/ckedihbegmhhmdnokbchoghfionggaib) - Appends the xdebug IDE variable to the url to kick off the session start to enable remote debugging for php applications
 -   [Xmarks](https://chrome.google.com/webstore/detail/xmarks-bookmark-sync/ajpgkpeckebdhofmmjfgcjjiiejpodla) - Backup and sync your bookmarks and open tabs across computers and browsers. Xmarks is also available for Firefox, Safari and IE
 
-## Other Awesome Lists
 
--   [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools ecosystem
--   [Awesome DevTools](https://github.com/andersoonweb/awesome-devtools) - A collection of articles, screencast, talks, courses and more.
+## More Web Development Lists from me
+
+- [Atom for Web Developer](https://github.com/ellerbrock/atom-for-webdeveloper)
+- [Node.js for Developers](https://github.com/ellerbrock/nodejs-for-developers)
+- [Node.js for Business](https://github.com/ellerbrock/nodejs-for-business)
+- [Publishing npm Packages](https://github.com/ellerbrock/publishing-npm-packages)
+- [Awesome TypeScript](https://github.com/ellerbrock/awesome-typescript)
+- [Docker Tutorial](https://github.com/ellerbrock/docker-tutorial)
+- [Open Source Licence](https://github.com/ellerbrock/choosing-a-open-source-licence)
+- [Apache htdigest Security](https://github.com/ellerbrock/apache-htdigest-security)
+
+## Awesome Chrome DevTools
+
+-   [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+-   [Awesome DevTools](https://github.com/andersoonweb/awesome-devtools)
+
+
 # Contact / Social Media
 
 _Get the latest News about Web Development, Open Source, Tooling, Server & Security_
