@@ -1,7 +1,8 @@
 ![ChromeExtensions](https://github.frapsoft.com/top/awesome-chrome-extensions.png)
 
-# Chrome Extensions for Web Developer
-[![BuildStatus](https://travis-ci.org/ellerbrock/chrome-extensions-for-webdevelopment.svg?branch=master)](https://travis-ci.org/ellerbrock/chrome-extensions-for-webdevelopment) [![OpenSource](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Gitter](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# Chrome Extensions for Web Developer  
+[![Build Status](https://travis-ci.org/ellerbrock/chrome-extensions-for-webdeveloper.svg?branch=master)](https://travis-ci.org/ellerbrock/chrome-extensions-for-webdeveloper)
+[![OpenSource](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Gitter](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
 List with useful Chrome Extensions for a better Web Workflow
 
