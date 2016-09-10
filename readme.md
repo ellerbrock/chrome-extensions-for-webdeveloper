@@ -1,6 +1,7 @@
 ![ChromeExtensions](https://github.frapsoft.com/top/awesome-chrome-extensions.png)
 
-# Chrome Extensions for Web Developer  
+# Chrome Extensions for Web Developer
+
 [![Build Status](https://travis-ci.org/ellerbrock/chrome-extensions-for-webdeveloper.svg?branch=master)](https://travis-ci.org/ellerbrock/chrome-extensions-for-webdeveloper)
 [![OpenSource](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Gitter](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
@@ -47,23 +48,22 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [WOT](https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp) - Web of Trust gives a warning if pages are supposed to be dangerous
 -   [XDebug Session Handler for PHP and IntelliJ](https://chrome.google.com/webstore/detail/xdebug-session-handler-fo/ckedihbegmhhmdnokbchoghfionggaib) - Appends the xdebug IDE variable to the url to kick off the session start to enable remote debugging for php applications
 -   [Xmarks](https://chrome.google.com/webstore/detail/xmarks-bookmark-sync/ajpgkpeckebdhofmmjfgcjjiiejpodla) - Backup and sync your bookmarks and open tabs across computers and browsers. Xmarks is also available for Firefox, Safari and IE
-
-
-## More Web Development Lists from me
-
-- [Atom for Web Developer](https://github.com/ellerbrock/atom-for-webdeveloper)
-- [Node.js for Developers](https://github.com/ellerbrock/nodejs-for-developers)
-- [Node.js for Business](https://github.com/ellerbrock/nodejs-for-business)
-- [Publishing npm Packages](https://github.com/ellerbrock/publishing-npm-packages)
-- [Awesome TypeScript](https://github.com/ellerbrock/awesome-typescript)
-- [Docker Tutorial](https://github.com/ellerbrock/docker-tutorial)
-- [Open Source Licence](https://github.com/ellerbrock/choosing-a-open-source-licence)
-- [Apache htdigest Security](https://github.com/ellerbrock/apache-htdigest-security)
+-   [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - DevTools for Redux with actions history, undo and replay.
 
 ## Awesome Chrome DevTools
 
 -   [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 -   [Awesome DevTools](https://github.com/andersoonweb/awesome-devtools)
+
+## Other Web Development Lists
+
+-   [Apache htdigest Security](https://github.com/ellerbrock/apache-htdigest-security)
+-   [Atom for Web Developer](https://github.com/ellerbrock/atom-for-webdeveloper)
+-   [Awesome TypeScript](https://github.com/ellerbrock/awesome-typescript)
+-   [Docker Tutorial](https://github.com/ellerbrock/docker-tutorial)
+-   [Node.js for Developers](https://github.com/ellerbrock/nodejs-for-webdeveloper)
+-   [Open Source Licence](https://github.com/ellerbrock/choosing-a-open-source-licence)
+-   [Publishing npm Packages](https://github.com/ellerbrock/publishing-npm-packages)
 
 
 # Contact / Social Media
