@@ -38,6 +38,7 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [Node.js V8 Inspector](https://chrome.google.com/webstore/detail/nodejs-v8-inspector/lfnddfpljnhbneopljflpombpnkfhggl) - Extension for launching V8 Inspector for Node.js debugging
 -   [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save memory and minimize all unused Tabs in one page
 -   [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools.
+-   [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - DevTools for Redux with actions history, undo and replay.
 -   [ScriptBlock](https://chrome.google.com/webstore/detail/scriptblock/hcdjknjpbnhdoabbngpmfekaecnpajba) - A smart extension that controls javascript, iframes, and plugins on Google Chrome.
 -   [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf) - Regain control of the web and surf more securely.
 -   [Starmark](https://chrome.google.com/webstore/detail/starmark/bkobkbkmhkmlmdolbhnmmmhnccdgaebk) - Exports your on Github stared pages and save them as bookmarks
@@ -48,7 +49,6 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [WOT](https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp) - Web of Trust gives a warning if pages are supposed to be dangerous
 -   [XDebug Session Handler for PHP and IntelliJ](https://chrome.google.com/webstore/detail/xdebug-session-handler-fo/ckedihbegmhhmdnokbchoghfionggaib) - Appends the xdebug IDE variable to the url to kick off the session start to enable remote debugging for php applications
 -   [Xmarks](https://chrome.google.com/webstore/detail/xmarks-bookmark-sync/ajpgkpeckebdhofmmjfgcjjiiejpodla) - Backup and sync your bookmarks and open tabs across computers and browsers. Xmarks is also available for Firefox, Safari and IE
--   [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - DevTools for Redux with actions history, undo and replay.
 
 ## Awesome Chrome DevTools
 
@@ -57,12 +57,9 @@ List with useful Chrome Extensions for a better Web Workflow
 
 ## Other Web Development Lists
 
--   [Apache htdigest Security](https://github.com/ellerbrock/apache-htdigest-security)
 -   [Atom for Web Developer](https://github.com/ellerbrock/atom-for-webdeveloper)
 -   [Awesome TypeScript](https://github.com/ellerbrock/awesome-typescript)
--   [Docker Tutorial](https://github.com/ellerbrock/docker-tutorial)
 -   [Node.js for Developers](https://github.com/ellerbrock/nodejs-for-webdeveloper)
--   [Open Source Licence](https://github.com/ellerbrock/choosing-a-open-source-licence)
 -   [Publishing npm Packages](https://github.com/ellerbrock/publishing-npm-packages)
 
 
