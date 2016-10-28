@@ -16,10 +16,11 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) - Clear your cache and browsing data with a single click of a button.
 -   [Click and Save](https://chrome.google.com/webstore/detail/click-and-save/dbkmjjclgbiooljcegcddagnddjedmed) - Click to save images. Auto Rename, Filter, and Save most pictures.
 -   [Click&Clean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) - Clear history, cookies, temp files ...
+-   [Codecov](https://chrome.google.com/webstore/detail/codecov-extension/keefkhehidemnokodkdkejapdgfjmijf) - Coverage reports overlay in Github and Bitbucket.
 -   [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies
 -   [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) - A simple CSS property viewer.
 -   [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - An extension adding Vim-like bindings to Google Chrome
--   [ExtensionCloudFlare CDN Cache Monitor](https://chrome.google.com/webstore/detail/cloudflare-cdn-cache-moni/ahpmegooeifhmlpnhhggempnbmllfmgi) - View loaded resource headers and check CloudFlare CDN cache settings.
+-   [CloudFlare CDN Cache Monitor](https://chrome.google.com/webstore/detail/cloudflare-cdn-cache-moni/ahpmegooeifhmlpnhhggempnbmllfmgi) - View loaded resource headers and check CloudFlare CDN cache settings.
 -   [Fast Bookmark Scanner](https://chrome.google.com/webstore/detail/fast-bookmark-scanner/gjcmklpilmpfhfjpebhnapnglcppdbic) - how duplicated links, duplicated and empty folders
 -   [Firebase Auth](https://chrome.google.com/webstore/detail/firebase-auth-in-chrome-e/lpgchdfbjddonaolofeijjackhnhnlla) - Authorize Firebase in a Chrome extension using a Google account.
 -   [Google Analytics Tracking](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh) - Deactivate / OptOut from Google Analytics Tracking
