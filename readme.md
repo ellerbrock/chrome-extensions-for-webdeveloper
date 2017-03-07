@@ -21,6 +21,7 @@ List with useful Chrome Extensions for a better Web Workflow
 -   [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) - A simple CSS property viewer.
 -   [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - An extension adding Vim-like bindings to Google Chrome
 -   [CloudFlare CDN Cache Monitor](https://chrome.google.com/webstore/detail/cloudflare-cdn-cache-moni/ahpmegooeifhmlpnhhggempnbmllfmgi) - View loaded resource headers and check CloudFlare CDN cache settings.
+-   [Dark WebSocket Terminal](https://chrome.google.com/webstore/detail/dark-websocket-terminal/dmogdjmcpfaibncngoolgljgocdabhke) - Dark WebSocket Terminal provides netcat like functionality for conversing with a WebSocket server.
 -   [Fast Bookmark Scanner](https://chrome.google.com/webstore/detail/fast-bookmark-scanner/gjcmklpilmpfhfjpebhnapnglcppdbic) - how duplicated links, duplicated and empty folders
 -   [Firebase Auth](https://chrome.google.com/webstore/detail/firebase-auth-in-chrome-e/lpgchdfbjddonaolofeijjackhnhnlla) - Authorize Firebase in a Chrome extension using a Google account.
 -   [Google Analytics Tracking](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh) - Deactivate / OptOut from Google Analytics Tracking
